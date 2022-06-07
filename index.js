@@ -1,4 +1,7 @@
 (() => {
-    console.log("OI");
-    console.log("TCHAU")
+    // ianosdnoasndioniosdnioansd
+
+    if (true) {
+        console.log("true");
+    }
 })()
